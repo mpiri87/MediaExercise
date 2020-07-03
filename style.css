@@ -1,0 +1,30 @@
+
+.oceanimage {
+    width: 300px;
+  }
+  
+  img {
+    border: 2px solid red;
+    width: 500px;
+  }
+  
+  #firstimage {
+    border: 5px dashed purple;
+    border-radius: 50%;
+  }
+  
+  audio {
+    background-color: aqua;
+    height: 100px;
+    width: 500px;
+  }
+  
+  video {
+    border: 1px solid black;
+    width: 500px;
+  }
+  
+  div {
+    border: 1px solid black;
+    padding: 30px;
+  }
